@@ -11,6 +11,7 @@
 *The name of mine in the student list is not complete:)
 
 ## Exercise 3
-L1
-[name2.py](https://github.com/wangsiqihelen/computationalphysics_N2013301040002/blob/master/name2.py)
-L2
+###L1
+[name2.py](https://github.com/wangsiqihelen/computationalphysics_N2013301040002/blob/master/name2.py)  
+Note that what is 'cls' on Windows is 'clear' on Linux.
+###L2

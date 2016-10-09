@@ -9,13 +9,13 @@
 
 
 
-- [x] Exercise_02：
+- [x] Exercise_02：  
 [name.py   (which shows the word "Helen")](https://github.com/wangsiqihelen/computationalphysics_N2013301040002/blob/master/name.py)   
 [How it looks in the terminal of Linux](https://github.com/wangsiqihelen/computationalphysics_N2013301040002/blob/master/name.png)  
 
 
 
-- [x] Exercise_03:
+- [x] Exercise_03:  
 ###L1
 [name2.py](https://github.com/wangsiqihelen/computationalphysics_N2013301040002/blob/master/name2.py)  
 Note that what is 'cls' on Windows is 'clear' on Linux.  
@@ -25,11 +25,11 @@ Note that what is 'cls' on Windows is 'clear' on Linux.
 
 
 
-- [x] Exercise_04:
+- [x] Exercise_04:  
 
-[resonance.py](https://github.com/wangsiqihelen/computationalphysics_N2013301040002/blob/master/resonance.py)
-[resonance(using class).py](https://github.com/wangsiqihelen/computationalphysics_N2013301040002/blob/master/resonance(using%20class).py)
-[The Plot](https://github.com/wangsiqihelen/computationalphysics_N2013301040002/blob/master/figure_1.png)
+[resonance.py](https://github.com/wangsiqihelen/computationalphysics_N2013301040002/blob/master/resonance.py)  
+[resonance(using class).py](https://github.com/wangsiqihelen/computationalphysics_N2013301040002/blob/master/resonance(using%20class).py)  
+[The Plot](https://github.com/wangsiqihelen/computationalphysics_N2013301040002/blob/master/figure_1.png)  
 
 - [x] Exercise_05
 

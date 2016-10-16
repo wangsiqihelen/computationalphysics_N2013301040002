@@ -55,4 +55,4 @@ a.show_results()
 
 
 ## The Plot
-![the plot]
+![the plot](https://github.com/wangsiqihelen/computationalphysics_N2013301040002/blob/master/Exercise_05-Problem-2.6/figure_2.6.png)

@@ -1,5 +1,5 @@
 # Problem 2.6  
-##  Use the Eular method to calculate cannon shell trajectories ignoring both air drag and the effect of air density.  
+  Use the Eular method to calculate cannon shell trajectories ignoring both air drag and the effect of air density.  
  
 
 ## The codes  
@@ -47,12 +47,12 @@ class cannon_shell:
 		  fontdict = font)
 	pl.text( 140 , 19, \
 		'g=9.8m/s^2',
-		  fontdict = font)
+		  fontdict = font)  
         pl.show()
-
 a = cannon_shell()
 a.run()
-a.show_results()    
+a.show_results()
+
 
 ## The Plot
-
+![the plot]

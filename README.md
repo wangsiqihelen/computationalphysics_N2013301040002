@@ -31,7 +31,9 @@ Note that what is 'cls' on Windows is 'clear' on Linux.
     [resonance(using class).py](https://github.com/wangsiqihelen/computationalphysics_N2013301040002/blob/master/resonance(using%20class).py)  
     [The Plot](https://github.com/wangsiqihelen/computationalphysics_N2013301040002/blob/master/figure_1.png)  
 
-- [x] [Exercise_05](https://github.com/wangsiqihelen/computationalphysics_N2013301040002/tree/master/Exercise_05-Problem-2.6)
+
+
+- [x] [Exercise_05](https://github.com/wangsiqihelen/computationalphysics_N2013301040002/blob/master/Exercise_05-Problem-2.6/Exercise%205.md)
 
 - [x] Exercise_06
 

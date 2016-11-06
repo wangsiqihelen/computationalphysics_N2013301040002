@@ -35,9 +35,9 @@ Note that what is 'cls' on Windows is 'clear' on Linux.
 
 - [x] [Exercise_05](https://github.com/wangsiqihelen/computationalphysics_N2013301040002/blob/master/Exercise_05-Problem-2.6/Exercise%205.md)
 
-- [x] Exercise_06
+- [x] [Exercise_06](https://github.com/wangsiqihelen/computationalphysics_N2013301040002/tree/master/Exercise_06-Problem-2.10)
 
-- [x] Exercise_07
+- [x] [Exercise_07](https://github.com/wangsiqihelen/computationalphysics_N2013301040002/tree/master/Exercise_07-Problem-3.12-3.13-3.14)
 
 - [x] Exercise_08
 

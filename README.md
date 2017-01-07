@@ -50,3 +50,5 @@ Note that what is 'cls' on Windows is 'clear' on Linux.
 - [x] Exercise_12
 
 - [x] Exercise_13
+
+- [x] [Final Project](https://github.com/wangsiqihelen/computationalphysics_N2013301040002/tree/master/Final%20Project)
